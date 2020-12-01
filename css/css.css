@@ -1,4 +1,4 @@
-﻿@charset "utf-8";
+@charset "utf-8";
 /* CSS Document */
 body { margin: 0px; padding: 0px; font-size: 14px; font-family: "微软雅黑"; }
 /*万能清除浮动开始*/
@@ -14,9 +14,9 @@ a { color: #fff; text-decoration: none; }
 img { border: none; }
 
 /*左边部分 导航*/
-.index_left { width:22%; height: 100%; position: fixed; background: #5f6d7e; }
+.index_left { width:22%; height: 100%; position: fixed; background:#ffaa7f ; }
 .logo img { width:100%;}
-#nav_01 { background: #495461; }
+#nav_01 { background: #00ffff; }
 .nav { text-align: center;height:300px; overflow:hidden; }
 .nav ul li { height: 50px; line-height: 50px; overflow:hidden;}
 .nav ul li:hover { background: #495461;/* opacity:0.2;*/ }
