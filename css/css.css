@@ -14,7 +14,7 @@ a { color: #fff; text-decoration: none; }
 img { border: none; }
 
 /*左边部分 导航*/
-.index_left { width:22%; height: 100%; position: fixed; background:#ffaa7f ; }
+.index_left { width:22%; height: 100%; position: fixed; background:darkslateblue; }/*#ffaa7f*/
 .logo img { width:100%;}
 #nav_01 { background: #00ffff; }
 .nav { text-align: center;height:300px; overflow:hidden; }
